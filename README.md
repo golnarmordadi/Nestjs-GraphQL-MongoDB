@@ -15,17 +15,15 @@ $ npm install
 
 ## GraphQL
 
-``
+```
 http://localhost://3000/graphql
-
 ```
 
 ## Nestjs
 
-``
+```bash
 nest new <ProjectName>
 nest g module <ModuleName>
-
 ```
 
 ## Running the app
