@@ -1,8 +1,11 @@
 
 
 ## Description
+This is a sample that created with Nestjs and Typescript. 
 
+*Nest (NestJS) is a framework for building efficient, scalable Node.js server-side applications.
 
+*Typescript provides optional static typing, classes and interfaces. One of the big benefits is to enable IDEs to provide a richer environment for spotting common errors as you type the code.
 
 ## Installation
 
