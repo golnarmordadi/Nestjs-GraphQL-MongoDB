@@ -16,7 +16,7 @@ $ npm install
 ## GraphQL
 
 ```
-http://localhost://3000/graphql
+Visit http://localhost://3000/graphql
 ```
 
 ## Nestjs
