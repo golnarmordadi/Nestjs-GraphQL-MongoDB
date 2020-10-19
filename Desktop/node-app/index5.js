@@ -79,5 +79,5 @@ exec('git push -u https://github.com/hakimehmordadi/Nestjs-GraphQL-MongoDB.git m
         return;
     }
     console.log(`stdout: ${stdout}`);
-    console.error(`stderr: ${stderr}`);
+    console.log(`stderr: ${stderr}`);
 });
